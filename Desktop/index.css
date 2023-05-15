@@ -32,6 +32,18 @@ img {
 
 /* anuncio */
 .anuncio {
-    background-color: yellow;
-    border-radius: 5px;
+    background-color: #FFF299;
+    border-radius: 10px;
+    padding: 70px;
+}
+.Tamanho {
+    padding: 70px;
+}
+.Anuncio {
+    text-align:right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+.Mudança {
+    size: 50%;
 }
