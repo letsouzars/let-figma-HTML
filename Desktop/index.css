@@ -30,3 +30,8 @@ img {
     height: 800px;
 }
 
+/* anuncio */
+.anuncio {
+    background-color: yellow;
+    border-radius: 5px;
+}
