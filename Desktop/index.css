@@ -1,15 +1,11 @@
 /* Cabeçalho */
-.header {
-    background-image: url(foto\ fundo\ 1.jpg);
-    background-position: 50%;
-    background-size: 100%;
-    
-}
+
 nav {
     display: flex;
     text-align: center;
     justify-content: space-around;
-    height: 800px;
+    height: 200pxpx;
+    background-color: black;
 }
  
 .logo {
