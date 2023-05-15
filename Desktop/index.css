@@ -1,0 +1,16 @@
+/* Cabeçalho */
+.header {
+    background-image: url(foto\ fundo\ 1.jpg);
+    
+}
+nav {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    height: 500px;
+}
+ 
+.logo {
+    width: 150px;
+    height: 130px;
+}
