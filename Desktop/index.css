@@ -1,16 +1,23 @@
 /* Cabeçalho */
 .header {
     background-image: url(foto\ fundo\ 1.jpg);
+    background-position: 50%;
+    background-size: 100%;
     
 }
 nav {
     display: flex;
     text-align: center;
     justify-content: space-around;
-    height: 500px;
+    height: 800px;
 }
  
 .logo {
     width: 150px;
     height: 130px;
 }
+.cabeça {
+    background-color: aliceblue;
+    padding: 15px;
+}
+
