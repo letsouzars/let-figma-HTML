@@ -17,7 +17,7 @@
     left: 0;
     right: 0;
     background-color: black;
-    padding: 2rem 9%;
+    padding: 15px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -35,4 +35,33 @@
     color: white;
  }
  
+ /* home */
+ selection {
+    padding: 2rem 9%;
+ }
+
+ .home {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background:url(up.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+ }
+
+ .home .content {
+    max-width: 50rem;
+ }
+
+ .home .content h3 {
+    font-size: 6rem; 
+    color: white;
+ }
+ .home .content span {
+    font-size: 3.5rem;
+    color: white;
+   padding: 1rem 0;
+   line-height:1,5 ;
+   
+ }
  
