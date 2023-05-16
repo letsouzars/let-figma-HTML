@@ -81,3 +81,13 @@ selection {
     background-color: white;
     padding: 180px;
 }
+.FundoLaranja {
+    position: absolute;
+width: 1322px;
+height: 282px;
+left: 65px;
+top: 800px;
+background: #FFF299;
+border-radius: 26px;
+bottom: 860px;
+}
