@@ -21,18 +21,22 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+  
+    
     
  }
  
  .logo {
     width: 120px;
     height: 100px;
+    margin-left: 50px;
  }
 
  .navbar a {
-    font: size 2rem; ;
+    font-size: 1.5rem; 
     padding: 0 1.5rem;
     color: white;
+    margin-right: 100px;
  }
  
  /* home */
@@ -56,6 +60,8 @@
  .home .content h3 {
     font-size: 6rem; 
     color: white;
+    margin-left: 100px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
  }
  .home .content span {
     font-size: 3.5rem;
@@ -64,4 +70,7 @@
    line-height:1,5 ;
    
  }
- 
+  
+ #Para {
+    color: #E57324;
+ }
