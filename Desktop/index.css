@@ -74,9 +74,18 @@
  #Para {
     color: #E57324;
  }
-
+/* acuncio */
  .QuadradoBranco {
-    padding: 100px;
+    padding: 50px;
     background-color: white;
 
+ }
+ .QuadradoAnuncio {
+    background-color: #FFF299;
+    padding: 100px;
+    border-radius: 10px;
+ }
+
+ .TextoAnuncio {
+    margin-left: 100px;
  }
