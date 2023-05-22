@@ -134,9 +134,15 @@ selection {
     top: 1220px;
  }
 
- .FotoMarmore {
-    width: 50%;
- }
+
+ .Cardapio {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background: url(fundo\ marmore.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 
 
  
