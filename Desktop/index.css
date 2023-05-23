@@ -144,7 +144,7 @@ selection {
     background: url(fundo\ marmore.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    height: 800px;
+    height: 1050px;
    
  }
 
@@ -154,8 +154,18 @@ selection {
     border-radius: 15px;
     margin: 50px;
     margin-left: 110px;
-    te
+    text-align: center;
 
+    
+ }
+
+ .MENU {
+    position: absolute;
+    text-align: center;
+    left: 45vw;
+    top: 2000px;
+    font-size: 50px;
+    
     
  }
 
