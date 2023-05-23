@@ -149,35 +149,15 @@ selection {
  }
 
  .ImagemComida1 {
-    width: 300px;
+    width: 80%;
     height: auto;
     border-radius: 15px;
     margin: 50px;
     margin-left: 110px;
+    te
 
     
  }
 
  
- .Conjunto2 {
-   
-    justify-content:space-around;
-   
-    background: url(fundo\ marmore.jpg) no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 800px;
-   
- }
 
- .ImagemComida2 {
-    width: 300px;
-    height: auto;
-    border-radius: 15px;
-    margin: 50px;
-    margin-left: 110px;
-        
- }
-
-
- 
