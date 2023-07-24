@@ -159,6 +159,8 @@ selection {
     
  }
 
+/* menu */
+
  .MENU {
     position: absolute;
     text-align: center;
@@ -166,8 +168,4 @@ selection {
     top: 2000px;
     font-size: 50px;
     
-    
  }
-
- 
-
